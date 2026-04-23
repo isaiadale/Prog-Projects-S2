@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Aufgabe-B_Wörter-zaehlen/1.0.0": {
+        "runtime": {
+          "Aufgabe-B_Wörter-zaehlen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aufgabe-B_Wörter-zaehlen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

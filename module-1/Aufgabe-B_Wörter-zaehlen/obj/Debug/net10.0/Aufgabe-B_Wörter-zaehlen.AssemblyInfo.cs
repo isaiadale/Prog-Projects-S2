@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aufgabe-B_Wörter-zaehlen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+541177b85a4ee7b8e91144b42f814ec20c257c61")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aufgabe-B_Wörter-zaehlen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aufgabe-B_Wörter-zaehlen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

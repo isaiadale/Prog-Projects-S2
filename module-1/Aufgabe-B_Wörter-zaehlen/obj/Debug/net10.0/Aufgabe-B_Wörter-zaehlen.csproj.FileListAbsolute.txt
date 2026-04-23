@@ -1,0 +1,15 @@
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\bin\Debug\net10.0\Aufgabe-B_Wörter-zaehlen.exe
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\bin\Debug\net10.0\Aufgabe-B_Wörter-zaehlen.deps.json
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\bin\Debug\net10.0\Aufgabe-B_Wörter-zaehlen.runtimeconfig.json
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\bin\Debug\net10.0\Aufgabe-B_Wörter-zaehlen.dll
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\bin\Debug\net10.0\Aufgabe-B_Wörter-zaehlen.pdb
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\obj\Debug\net10.0\Aufgabe-B_Wörter-zaehlen.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\obj\Debug\net10.0\Aufgabe-B_Wörter-zaehlen.AssemblyInfoInputs.cache
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\obj\Debug\net10.0\Aufgabe-B_Wörter-zaehlen.AssemblyInfo.cs
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\obj\Debug\net10.0\Aufgabe-B_Wörter-zaehlen.csproj.CoreCompileInputs.cache
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\obj\Debug\net10.0\Aufgabe-B_Wörter-zaehlen.sourcelink.json
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\obj\Debug\net10.0\Aufgabe-B_Wörter-zaehlen.dll
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\obj\Debug\net10.0\refint\Aufgabe-B_Wörter-zaehlen.dll
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\obj\Debug\net10.0\Aufgabe-B_Wörter-zaehlen.pdb
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\obj\Debug\net10.0\Aufgabe-B_Wörter-zaehlen.genruntimeconfig.cache
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-1\Aufgabe-B_Wörter-zaehlen\obj\Debug\net10.0\ref\Aufgabe-B_Wörter-zaehlen.dll

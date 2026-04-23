@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "Z:\\Documents\\HF-IT\\HF-Semester_2\\Programming\\Prog-Projects-S2\\module-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C4053A2-B48B-4BCF-BD51-76521D374E71}|Aufgabe-B_W\u00F6rter-zaehlen\\Aufgabe-B_W\u00F6rter-zaehlen.csproj|z:\\documents\\hf-it\\hf-semester_2\\programming\\prog-projects-s2\\module-1\\aufgabe-b_w\u00F6rter-zaehlen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C4053A2-B48B-4BCF-BD51-76521D374E71}|Aufgabe-B_W\u00F6rter-zaehlen\\Aufgabe-B_W\u00F6rter-zaehlen.csproj|solutionrelative:aufgabe-b_w\u00F6rter-zaehlen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F54DB227-B7F9-4BFC-9211-CC56DA777441}|Aufgabe-B_W\u00F6rter-zaehlen\\Aufgabe-B_W\u00F6rter-zaehlen.csproj|z:\\documents\\hf-it\\hf-semester_2\\programming\\prog-projects-s2\\module-1\\aufgabe-b_w\u00F6rter-zaehlen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54DB227-B7F9-4BFC-9211-CC56DA777441}|Aufgabe-B_W\u00F6rter-zaehlen\\Aufgabe-B_W\u00F6rter-zaehlen.csproj|solutionrelative:aufgabe-b_w\u00F6rter-zaehlen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54DB227-B7F9-4BFC-9211-CC56DA777441}|Aufgabe-B_W\u00F6rter-zaehlen\\Aufgabe-B_W\u00F6rter-zaehlen.csproj|z:\\documents\\hf-it\\hf-semester_2\\programming\\prog-projects-s2\\module-1\\aufgabe-b_w\u00F6rter-zaehlen\\sentence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54DB227-B7F9-4BFC-9211-CC56DA777441}|Aufgabe-B_W\u00F6rter-zaehlen\\Aufgabe-B_W\u00F6rter-zaehlen.csproj|solutionrelative:aufgabe-b_w\u00F6rter-zaehlen\\sentence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,9 +36,28 @@
               "RelativeDocumentMoniker": "Aufgabe-B_W\u00F6rter-zaehlen\\Program.cs",
               "ToolTip": "Z:\\Documents\\HF-IT\\HF-Semester_2\\Programming\\Prog-Projects-S2\\module-1\\Aufgabe-B_W\u00F6rter-zaehlen\\Program.cs",
               "RelativeToolTip": "Aufgabe-B_W\u00F6rter-zaehlen\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-22T14:44:26.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sentence.cs",
+              "DocumentMoniker": "Z:\\Documents\\HF-IT\\HF-Semester_2\\Programming\\Prog-Projects-S2\\module-1\\Aufgabe-B_W\u00F6rter-zaehlen\\Sentence.cs",
+              "RelativeDocumentMoniker": "Aufgabe-B_W\u00F6rter-zaehlen\\Sentence.cs",
+              "ToolTip": "Z:\\Documents\\HF-IT\\HF-Semester_2\\Programming\\Prog-Projects-S2\\module-1\\Aufgabe-B_W\u00F6rter-zaehlen\\Sentence.cs",
+              "RelativeToolTip": "Aufgabe-B_W\u00F6rter-zaehlen\\Sentence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:34:15.486Z",
               "EditorCaption": ""
             }
           ]

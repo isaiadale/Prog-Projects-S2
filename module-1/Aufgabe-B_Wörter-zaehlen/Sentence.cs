@@ -7,10 +7,10 @@ namespace Aufgabe_B_Wörter_zaehlen
     internal class Sentence
     {
         //Fields
-        private List<string> _words { get; set; }
+        private List<string> _words;
         private int _numberOfWords;
         private string _longestWord;
-        private int _numberOfVowals;
+        private int _numberOfVowels;
 
         //Properties
         public int NumberOfWords
@@ -25,10 +25,10 @@ namespace Aufgabe_B_Wörter_zaehlen
             private set { _longestWord = value; }
         }
 
-        public int NumberOfVowals
+        public int NumberOfVowels
         {
-            get { return _numberOfVowals; }
-            private set { _numberOfVowals = value; } 
+            get { return _numberOfVowels; }
+            private set { _numberOfVowels = value; } 
         }
 
         //Konstruktoren
@@ -38,30 +38,31 @@ namespace Aufgabe_B_Wörter_zaehlen
 
             NumberOfWords = _words.Count;
 
-            LongestWord = SetLongestWord(_words);
+            LongestWord = FindLongestWord(_words);
 
-            NumberOfVowals = CountNumberOfVowals(sentence);
+            NumberOfVowels = CountNumberOfVowels(sentence);
         }
 
         //Methoden
-        private string SetLongestWord(List<string> words)
+        private string FindLongestWord(List<string> words)
         {
             string longestWord = string.Empty;
             int temp = 0;
 
             foreach (string word in words)
             {
-                if (word.Length > temp)
+                string result = word.Trim('!', '?', ',', '.');
+                if (result.Length > temp)
                 {
-                    temp = word.Length;
-                    longestWord = word;
+                    temp = result.Length;
+                    longestWord = result;
                 }
             }
 
             return longestWord;
         }
 
-        private int CountNumberOfVowals(string words)
+        private int CountNumberOfVowels(string words)
         {
             int count = 0;
 
