@@ -1,0 +1,15 @@
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\bin\Debug\net10.0\module-2.exe
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\bin\Debug\net10.0\module-2.deps.json
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\bin\Debug\net10.0\module-2.runtimeconfig.json
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\bin\Debug\net10.0\module-2.dll
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\bin\Debug\net10.0\module-2.pdb
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\obj\Debug\net10.0\module-2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\obj\Debug\net10.0\module-2.AssemblyInfoInputs.cache
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\obj\Debug\net10.0\module-2.AssemblyInfo.cs
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\obj\Debug\net10.0\module-2.csproj.CoreCompileInputs.cache
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\obj\Debug\net10.0\module-2.sourcelink.json
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\obj\Debug\net10.0\module-2.dll
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\obj\Debug\net10.0\refint\module-2.dll
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\obj\Debug\net10.0\module-2.pdb
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\obj\Debug\net10.0\module-2.genruntimeconfig.cache
+Z:\Documents\HF-IT\HF-Semester_2\Programming\Prog-Projects-S2\module-2\module-2\obj\Debug\net10.0\ref\module-2.dll
